@@ -12,4 +12,5 @@ const app = Vue.createApp({
     }
 });
 
+// app in azzurro è la variabile che ho creato a riga 3 qua su js. #app in arancione è l'id che ho dato al div di index.html
 app.mount('#app');
